@@ -7,40 +7,38 @@ body{
     background-color: #AAD4CF;
     width: 70%;
     padding: 20px;
-}
+    }
 
+/* attempting to add another colour to background */
 .background-box{
     width: 500px;
     height: 100%;
     background-color: #D4E9E7;
     min-height: 100%;
-}
-/* image header*/
-    
+    }
+
+/* image header */
 .header-image {
     z-index: -1;
-
 }
 .header {
     background: url("midterm-assets/lone-starfish-wide") ;
     display:flex;
     z-index: 1;
 }
-
 #title {
     color: white;
     text-align: center;
 }
 
+/* navigation bar */
 .navbar>a{
     color: #ffffff;
     display: inline-block;
     padding-inline: 4px;
 }   
 
-.container-b{
-    margin: 0 auto;
-}
+/* starfish image left of paragraph*/
 #starfish{
     width: 300px;
     height: 300px;
@@ -51,7 +49,7 @@ body{
     padding-left: 0px;
 }
 
-
+/* facts about starfish*/
 ul{
     list-style-type: disc;
 }
@@ -63,13 +61,19 @@ input {
     padding: 11px 18px;
     margin: 8px 0; 
 }
-#textarea {    width: 100%;
+#textarea { 
+    width: 100%;
     height: 126px;
     padding: 10px 20px;
 }
-.options{
+
+/*attempting to fix arrangement*/
+#options{
     display: inline-block;
 }
-#contact{
 
+/* footer*/
+#footer{
+    text-align: right;
+    size: 10pt;
 }
