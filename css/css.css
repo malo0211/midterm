@@ -7,7 +7,6 @@ body{
     background-color: #AAD4CF;
     width: 70%;
     padding: 20px;
-
 }
 
 .background-box{
@@ -21,8 +20,7 @@ body{
 .header {
     background: url("midterm-assets/lone-starfish-wide") ;
     display:flex;
-    align-content: center;
-    width: 68%
+    width: 22%
 }
 
 
