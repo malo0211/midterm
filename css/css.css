@@ -57,3 +57,6 @@ input {
     height: 126px;
     padding: 10px 20px;
 }
+.options{
+    display: inline;
+}
