@@ -18,13 +18,13 @@ body{
 /* image header*/
     
 .header-image {
-    z-index: 1;
+    z-index: -1;
 
 }
 .header {
     background: url("midterm-assets/lone-starfish-wide") ;
     display:flex;
-    z-index: 2;
+    z-index: 1;
 }
 
 #title {
@@ -33,8 +33,9 @@ body{
 }
 
 .navbar>a{
-    color: #aad4cf;
+    color: #ffffff;
     display: inline-block;
+    padding-inline: 4px;
 }   
 
 .container-b{
@@ -68,4 +69,7 @@ input {
 }
 .options{
     display: inline-block;
+}
+#contact{
+
 }
