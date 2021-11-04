@@ -27,10 +27,9 @@ body{
 .container{
     margin: 0 auto;
 }
-
 #starfish{
-    width: 100px;
-    height: 100px;
+    width: 25px;
+    height: 25px;
     float: left;
 }
 
