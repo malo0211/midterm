@@ -1,11 +1,12 @@
 html{
         font-family: Arial, Helvetica, sans-serif; 
         height:100%;
+        max-width: 400px;
+        margin: auto;
     }
 
 body{
     background-color: #AAD4CF;
-    width: 70%;
     }
 
 /* attempting to add another colour to background */
