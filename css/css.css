@@ -13,6 +13,10 @@
 }
 
 .navbar > a {
-    color: #B0D9D1;
+    color: #aad4cf;
     display: inline-block;
+}   
+
+ul{
+    list-style-type: circle;
 }
