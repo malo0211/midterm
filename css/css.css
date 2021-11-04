@@ -58,5 +58,5 @@ input {
     padding: 10px 20px;
 }
 .options{
-    display: inline;
+    display: inline-block;
 }
