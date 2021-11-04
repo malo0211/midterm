@@ -1,9 +1,13 @@
 #header{
     padding:20px;
-    margin: left 40px;
+    margin-left: 40px;
     margin-right: 40px;
     text-align: center;
     color: white;
     background-image: url(lone-starfish-wide.jpg);
-    background-size: cover; 
+}
+
+.navbar > a {
+    color: #B0D9D1;
+    display: inline-block;
 }
