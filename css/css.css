@@ -3,21 +3,27 @@ head{
     }
 body{
     background-color: #AAD4CF;
+    box-sizing: content-box;
 }
+
 .header{
-    margin-left: 40px;
-    margin-right: 40px;
-    text-align: center;
-    color: white;
-    background-image: url(lone-starfish-wide.jpg);
+    position: absolute
 }
 
 .text-block{
     color: white;
     position: absolute;
     background-color: transparent;
+    margin-left: 40px;
+    margin-right: 40px;
     text-align: center;
 }
+.content-box{
+    width: 500px;
+    height: 100%;
+    background-color: #D4E9E7;
+}
+
 
 .navbar>a{
     color: #aad4cf;
