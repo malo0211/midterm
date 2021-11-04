@@ -5,11 +5,9 @@ html{
     /* image header*/
 body{
     background-color: #AAD4CF;
-    box-sizing: content-box; 
     width: 70%;
     padding: 20px
 }
-
 
 .background-box{
     width: 500px;
