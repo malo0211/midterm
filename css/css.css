@@ -2,7 +2,6 @@ html{
         font-family: Arial, Helvetica, sans-serif; 
     }
 
-    /* image header*/
 body{
     background-color: #AAD4CF;
     width: 70%;
@@ -14,12 +13,12 @@ body{
     height: 100%;
     background-color: #D4E9E7;
 }
-
+/* image header*/
 .header{
     position: absolute;
-    width: 70%;
     vertical-align: middle;
     background-size: cover;
+    padding: 20px
 }
 .header .content {
     color: white;
