@@ -6,19 +6,20 @@ body{
     box-sizing: content-box;
 }
 
-.content-box{
+.background-box{
     width: 500px;
     height: 100%;
     background-color: #D4E9E7;
 }
 
-.header{
+.container{
     position: absolute;
     width: 70%;
    
 }
-.header .text-block{
+.container .content {
     color: white;
+    padding: 20px;
     position: absolute;
     background-color: transparent;
     margin-left: 40px;
@@ -32,7 +33,7 @@ body{
     display: inline-block;
 }   
 
-.container{
+.container-b{
     margin: 0 auto;
 }
 #starfish{
