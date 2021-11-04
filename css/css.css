@@ -5,7 +5,7 @@ html{
 
 body{
     background-color: #AAD4CF;
-    max-width: 400px;
+    max-width: 500px;
         margin: auto;
     }
 
@@ -24,7 +24,7 @@ body{
 .header {
     background: url("midterm-assets/lone-starfish-wide") ;
     display:flex;
-    
+    max-width: 500px
 }
 #title {
     color: white;
