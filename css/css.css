@@ -13,11 +13,11 @@ body{
 }
 
 .header{
-    position: absolute
-    back
+    position: absolute;
+    width: 70%;
+   
 }
-
-.text-block{
+.header .text-block{
     color: white;
     position: absolute;
     background-color: transparent;
