@@ -20,8 +20,12 @@ body{
     
 .header {
     background: url("midterm-assets/lone-starfish-wide") ;
-    width: 75%
+    display:flex;
+    align-content: center;
+    width: 68%
 }
+
+
 
 .navbar>a{
     color: #aad4cf;
