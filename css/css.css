@@ -18,11 +18,13 @@ body{
 /* image header*/
     
 .header-image {
-    
+    z-index: 1;
+
 }
 .header {
     background: url("midterm-assets/lone-starfish-wide") ;
     display:flex;
+    z-index: 2;
 }
 
 #title {
