@@ -18,14 +18,9 @@ body{
 }
 /* image header*/
     
-.header-title {
-    color: white;
-    padding: 20px;
-    position: absolute;
-    margin-left: 40px;
-    margin-right: 40px;
-    text-align: center;
-    background-image: url("midterm-assets/lone-starfish-wide") ;
+.header {
+    background: url("midterm-assets/lone-starfish-wide") ;
+    width: 75%
 }
 
 .navbar>a{
