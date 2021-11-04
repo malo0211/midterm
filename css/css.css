@@ -13,9 +13,10 @@ body{
 }
 
 .header{
-    position: absolute;
+    position: fixed;
     width: 70%;
     vertical-align: middle;
+    background-size: cover;
 }
 .header .content {
     color: white;
