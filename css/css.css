@@ -15,8 +15,8 @@ body{
 .container{
     position: absolute;
     width: 70%;
-   
 }
+.container img {vertical-align: middle;}
 .container .content {
     color: white;
     padding: 20px;
