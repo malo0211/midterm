@@ -6,8 +6,15 @@ body{
     box-sizing: content-box;
 }
 
+.content-box{
+    width: 500px;
+    height: 100%;
+    background-color: #D4E9E7;
+}
+
 .header{
     position: absolute
+    back
 }
 
 .text-block{
