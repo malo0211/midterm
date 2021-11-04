@@ -1,7 +1,9 @@
 head{
         font-family: sans-serif; 
     }
-
+body{
+    background-color: #AAD4CF;
+}
 .header{
     margin-left: 40px;
     margin-right: 40px;
