@@ -24,7 +24,7 @@ body{
 .header {
     background: url("midterm-assets/lone-starfish-wide") ;
     display:flex;
-    max-width: 50c0px
+    max-width: 500px;
 }
 #title {
     color: white;
