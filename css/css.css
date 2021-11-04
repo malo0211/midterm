@@ -31,7 +31,10 @@ body{
     width: 100px;
     height: 100px;
     float: left;
-    margin: 20px;
+    margin-top: 0pt;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 
