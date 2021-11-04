@@ -1,6 +1,7 @@
-head{
+html{
         font-family: sans-serif; 
     }
+    
 body{
     background-color: #AAD4CF;
     box-sizing: content-box;
@@ -21,7 +22,7 @@ body{
 .header .content {
     color: white;
     padding: 20px;
-    position: absolute;
+    position: fixed;
     background-color: transparent;
     margin-left: 40px;
     margin-right: 40px;
