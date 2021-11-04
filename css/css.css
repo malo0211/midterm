@@ -12,12 +12,12 @@ body{
     background-color: #D4E9E7;
 }
 
-.container{
+.header{
     position: absolute;
     width: 70%;
+    vertical-align: middle;
 }
-.container img {vertical-align: middle;}
-.container .content {
+.header .content {
     color: white;
     padding: 20px;
     position: absolute;
