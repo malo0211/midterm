@@ -1,11 +1,15 @@
 html{
-        font-family: sans-serif; 
+        font-family: Arial, Helvetica, sans-serif; 
     }
-    
+
+    /* image header*/
 body{
     background-color: #AAD4CF;
-    box-sizing: content-box;
+    box-sizing: content-box; 
+    width: 70%;
+    padding: 20px
 }
+
 
 .background-box{
     width: 500px;
