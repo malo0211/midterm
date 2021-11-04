@@ -28,13 +28,13 @@ body{
     margin: 0 auto;
 }
 #starfish{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     float: left;
-    margin-top: 0pt;
-    margin-left: 20px;
+    margin-top: 0px;
     margin-right: 20px;
     margin-bottom: 20px;
+    margin-left: 2px;
 }
 
 
