@@ -17,10 +17,12 @@ body{
     }
 
 /* image header */
-.header-image {
-    z-index: -1;
+.header-image{
+position: relative;
+width: 100%;
 }
-.header {
+
+.header{
     background: url("midterm-assets/lone-starfish-wide") ;
     display:flex;
     max-width: 500px;
